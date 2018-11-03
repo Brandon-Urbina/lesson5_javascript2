@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November, 3rd, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Brandon Urbina
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment has us develop a global currency exchange calculator, that converts USD to a chosen currency from a drop down menu.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://burbina-inventions.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to correcly use and utilize a if else statement.
+2. I leaenred how to correctly display results using correct variables.
+3. Learned how to clear data from a page using functions.
 
